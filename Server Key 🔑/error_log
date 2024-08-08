@@ -1,0 +1,333 @@
+[26-May-2021 04:47:04 America/Detroit] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/tdndoanhnet/gay.dndoanh.net/config.php on line 10
+[26-May-2021 04:47:57 America/Detroit] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/tdndoanhnet/gay.dndoanh.net/config.php on line 10
+[26-May-2021 10:27:58 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:29:13 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:29:16 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:30:07 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:30:36 America/Detroit] PHP Warning:  require_once(./core/checkloglog.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:30:36 America/Detroit] PHP Fatal error:  require_once(): Failed opening required './core/checkloglog.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:30:38 America/Detroit] PHP Warning:  require_once(./core/checkloglog.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:30:38 America/Detroit] PHP Fatal error:  require_once(): Failed opening required './core/checkloglog.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:30:59 America/Detroit] PHP Warning:  require_once(./core/checkloglog.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:30:59 America/Detroit] PHP Fatal error:  require_once(): Failed opening required './core/checkloglog.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:31:01 America/Detroit] PHP Warning:  require_once(./core/checkloglog.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:31:01 America/Detroit] PHP Fatal error:  require_once(): Failed opening required './core/checkloglog.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:31:15 America/Detroit] PHP Warning:  require_once(./core/check.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:31:15 America/Detroit] PHP Fatal error:  require_once(): Failed opening required './core/check.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:31:18 America/Detroit] PHP Warning:  require_once(./core/check.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:31:18 America/Detroit] PHP Fatal error:  require_once(): Failed opening required './core/check.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:31:19 America/Detroit] PHP Warning:  require_once(./core/check.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:31:19 America/Detroit] PHP Fatal error:  require_once(): Failed opening required './core/check.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:32:28 America/Detroit] PHP Warning:  require_once(./core/check.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:32:28 America/Detroit] PHP Fatal error:  require_once(): Failed opening required './core/check.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:33:06 America/Detroit] PHP Warning:  require_once(./core/check.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:33:06 America/Detroit] PHP Fatal error:  require_once(): Failed opening required './core/check.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:33:09 America/Detroit] PHP Warning:  require_once(./core/check.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:33:09 America/Detroit] PHP Fatal error:  require_once(): Failed opening required './core/check.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/login.php on line 5
+[26-May-2021 10:33:27 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:33:36 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:35:56 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:37:00 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:37:15 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:37:40 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:38:15 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:38:22 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:38:22 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 10:39:19 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:39:19 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 10:39:49 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:43:57 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:43:57 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 10:45:31 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:45:33 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:47:11 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:48:21 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:48:25 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:48:28 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:48:40 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:48:42 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:49:21 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:49:24 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:49:39 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:50:15 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:50:17 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:50:20 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:50:25 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:50:25 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 29
+[26-May-2021 10:50:48 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:51:21 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:52:50 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:52:50 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[26-May-2021 10:52:55 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:52:55 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 10:52:56 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:52:56 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 10:53:21 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:53:24 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 10:53:24 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 11:11:18 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 11:11:21 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 11:11:21 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 11:39:16 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 11:39:44 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 11:39:44 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 12:06:33 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 12:06:36 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 12:06:36 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 12:49:13 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 12:49:13 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[26-May-2021 12:49:42 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 12:49:42 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 12:49:43 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 12:49:59 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 12:50:12 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 12:50:12 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 13:50:45 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 13:52:30 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 13:52:33 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 13:52:33 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 13:55:05 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 13:55:15 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 13:55:17 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 13:55:21 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 13:55:21 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[26-May-2021 13:57:16 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 13:57:16 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[26-May-2021 13:57:44 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 13:57:44 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[26-May-2021 13:58:12 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 13:58:12 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[26-May-2021 13:58:40 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 23:06:58 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 23:16:37 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[26-May-2021 23:16:37 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[26-May-2021 23:23:21 America/Detroit] PHP Warning:  require_once(../core/info.php): failed to open stream: No such file or directory in /home/tdndoanhnet/gay.dndoanh.net/index.php on line 18
+[26-May-2021 23:23:21 America/Detroit] PHP Fatal error:  require_once(): Failed opening required '../core/info.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tdndoanhnet/gay.dndoanh.net/index.php on line 18
+[27-May-2021 00:11:10 America/Detroit] PHP Notice:  Undefined index: PostingDate in /home/tdndoanhnet/gay.dndoanh.net/index.php on line 42
+[27-May-2021 01:37:33 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 01:37:36 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 01:37:36 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 02:03:10 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 02:03:41 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 02:03:44 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 02:03:44 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 02:11:39 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 02:11:48 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 02:11:54 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 02:12:01 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 02:12:01 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 03:13:34 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 03:24:43 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 03:24:45 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 03:24:45 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 05:20:54 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 05:20:56 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 05:20:56 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 06:35:37 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 06:35:45 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 07:34:58 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 07:40:39 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 07:40:44 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 07:40:44 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 07:50:39 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 07:50:44 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 07:50:44 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 08:45:59 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 08:46:01 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 08:46:01 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 09:11:01 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 09:11:01 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 11:51:20 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:51:33 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:51:33 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 11:51:34 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:51:45 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:51:52 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:51:52 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 11:51:52 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:51:52 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 11:51:56 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:51:59 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:51:59 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 11:53:29 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:53:32 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:54:19 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:54:28 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 11:54:46 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 12:45:36 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 14:46:18 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 14:46:21 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 14:46:21 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[27-May-2021 20:12:31 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 20:12:39 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[27-May-2021 20:12:39 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[27-May-2021 20:12:43 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:11:01 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:12:54 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:12:58 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:12:58 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 01:17:27 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:17:30 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:17:30 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 01:44:10 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:44:16 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:44:18 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:56:52 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:56:53 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:56:53 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 01:56:56 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:56:56 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 01:58:23 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:58:28 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 01:58:28 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:00:52 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:00:52 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:00:52 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 25
+[28-May-2021 02:01:16 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:01:16 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:01:16 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 26
+[28-May-2021 02:03:37 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:03:38 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:03:38 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:03:38 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 27
+[28-May-2021 02:04:30 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:04:35 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:04:35 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:04:35 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 26
+[28-May-2021 02:10:40 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:10:40 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:10:40 America/Detroit] PHP Fatal error:  Cannot use try without catch or finally in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 43
+[28-May-2021 02:11:09 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:11:09 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:11:09 America/Detroit] PHP Fatal error:  Cannot use try without catch or finally in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 44
+[28-May-2021 02:11:15 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:11:15 America/Detroit] PHP Fatal error:  Cannot use try without catch or finally in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 44
+[28-May-2021 02:11:18 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:11:18 America/Detroit] PHP Fatal error:  Cannot use try without catch or finally in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 44
+[28-May-2021 02:11:24 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:11:24 America/Detroit] PHP Fatal error:  Cannot use try without catch or finally in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 44
+[28-May-2021 02:12:21 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:12:21 America/Detroit] PHP Fatal error:  Cannot use try without catch or finally in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 36
+[28-May-2021 02:12:22 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:12:22 America/Detroit] PHP Fatal error:  Cannot use try without catch or finally in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 36
+[28-May-2021 02:12:23 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:12:23 America/Detroit] PHP Fatal error:  Cannot use try without catch or finally in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 36
+[28-May-2021 02:12:24 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:12:24 America/Detroit] PHP Fatal error:  Cannot use try without catch or finally in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 36
+[28-May-2021 02:12:31 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:12:34 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:12:34 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:13:03 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:13:03 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:13:42 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:20:03 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:20:06 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:20:06 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:20:06 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 28
+[28-May-2021 02:20:09 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:20:09 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:20:09 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 28
+[28-May-2021 02:23:25 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:23:26 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:23:33 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:23:33 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:23:33 America/Detroit] PHP Notice:  Undefined index: HTTP_CLIENT_IP in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 15
+[28-May-2021 02:23:33 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 27
+[28-May-2021 02:27:38 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:27:44 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:27:44 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:27:44 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 27
+[28-May-2021 02:32:04 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:32:29 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:32:29 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:32:29 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 28
+[28-May-2021 02:37:13 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:37:16 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:37:16 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:37:16 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 28
+[28-May-2021 02:37:19 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:37:33 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:37:38 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:37:38 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:37:38 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 28
+[28-May-2021 02:44:10 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:44:12 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:44:12 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:44:12 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 02:44:16 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:44:16 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:44:16 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 02:45:43 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:45:45 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:45:45 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 02:45:45 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 02:50:00 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:50:04 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:50:04 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:50:04 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 02:51:12 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:51:12 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:51:12 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 02:52:02 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:52:08 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:52:08 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:52:08 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 02:55:25 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:55:25 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:55:25 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 02:56:18 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:56:18 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 02:56:18 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 02:56:29 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 02:56:29 America/Detroit] PHP Notice:  Undefined variable: rows1 in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 02:56:29 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 03:03:34 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:03:37 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:03:37 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 03:03:37 America/Detroit] PHP Notice:  Undefined index: IMEI in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 18
+[28-May-2021 03:03:37 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 31
+[28-May-2021 03:03:40 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:03:40 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 03:03:40 America/Detroit] PHP Notice:  Undefined index: IMEI in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 18
+[28-May-2021 03:03:40 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 31
+[28-May-2021 03:09:21 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:10:04 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:10:04 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 03:10:04 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 31
+[28-May-2021 03:10:07 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:10:17 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:10:30 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:10:30 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 03:10:30 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 31
+[28-May-2021 14:23:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tdndoanhnet/gay.dndoanh.net/trangthai.php on line 127
+[28-May-2021 14:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tdndoanhnet/gay.dndoanh.net/trangthai.php on line 127
+[28-May-2021 14:25:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tdndoanhnet/gay.dndoanh.net/trangthai.php on line 127
+[28-May-2021 03:27:37 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:27:39 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:27:39 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 03:27:39 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 31
+[28-May-2021 03:30:33 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:30:33 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 26
+[28-May-2021 03:30:33 America/Detroit] PHP Notice:  Undefined index: udid in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 18
+[28-May-2021 03:30:33 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 30
+[28-May-2021 03:32:19 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:32:22 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 03:32:22 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 03:32:22 America/Detroit] PHP Notice:  Undefined index: udid in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 18
+[28-May-2021 03:32:22 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 31
+[28-May-2021 04:22:35 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 04:23:33 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 04:23:37 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 04:23:37 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 04:23:37 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 31
+[28-May-2021 21:23:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tdndoanhnet/gay.dndoanh.net/trangthai.php on line 127
+[28-May-2021 10:26:03 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 10:26:08 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 10:26:08 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 27
+[28-May-2021 10:26:08 America/Detroit] PHP Notice:  Undefined variable: rows in /home/tdndoanhnet/gay.dndoanh.net/sendemail.php on line 31
+[28-May-2021 10:31:26 America/Detroit] PHP Notice:  A session had already been started - ignoring session_start() in /home/tdndoanhnet/gay.dndoanh.net/core/checklog.php on line 6
+[28-May-2021 21:56:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tdndoanhnet/gay.dndoanh.net/trangthai.php on line 127
+[28-May-2021 22:11:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tdndoanhnet/gay.dndoanh.net/trangthai.php on line 127
+[28-May-2021 22:13:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tdndoanhnet/gay.dndoanh.net/trangthai.php on line 127
+[28-May-2021 22:13:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tdndoanhnet/gay.dndoanh.net/trangthai.php on line 127
+[28-May-2021 22:17:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tdndoanhnet/gay.dndoanh.net/trangthai.php on line 127
